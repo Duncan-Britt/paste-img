@@ -3,9 +3,9 @@
 ;; Copyright (C) 2023 Duncan Britt
 
 ;; Author: Duncan Britt <dbru997@gmail.com>
-;; URL: TODO
+;; URL: https://github.com/Duncan-Britt/paste-img
 ;; Version: 0.1.0
-;; Package-Requires: ((emacs "29.3") (org "9.6.15") (org-download "0.1.0"))
+;; Package-Requires: ((emacs "29.3") (org "9.6.15") (org-download "0.1.0") (pngpaste "x.x.x"))
 ;; Keywords: multimedia, images, org-mode, macos
 
 ;; This file is not part of GNU Emacs.
